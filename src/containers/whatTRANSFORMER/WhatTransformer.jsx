@@ -4,7 +4,7 @@ import './whatTransformer.css'
 
 const WhatTransformer = () => {
    return (
-      <div className="transformer__whattransformer section__margin" id="wtransformer">
+      <div className="transformer__whattransformer section__margin" id="transformer">
       <div className="transformer__whattransformer-feature">
         <Feature title="What is TransformerAI" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
       </div>
