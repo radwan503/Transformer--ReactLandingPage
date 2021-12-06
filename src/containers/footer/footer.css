@@ -68,9 +68,9 @@
 }
 
 .transformer__footer-links_logo img{
-   width: 118px;
-   height: 30px;
-
+   width: 100%;
+   height: 35px;
+margin-left: -10px;
    margin-bottom: 1rem;
 }
 

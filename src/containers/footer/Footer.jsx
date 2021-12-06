@@ -1,5 +1,5 @@
 import React from 'react';
-import transformerLogo from '../../assets/logo.svg';
+import transformerLogo from '../../assets/Transformerlogo.png';
 import './footer.css'
 const Footer = () => {
    return (

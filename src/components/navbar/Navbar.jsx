@@ -1,6 +1,6 @@
 import React, { Fragment, useState } from 'react';
 import { RiMenu3Fill, RiCloseLine } from 'react-icons/ri'
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/Transformerlogo.png'
 import './navbar.css'
 
 
