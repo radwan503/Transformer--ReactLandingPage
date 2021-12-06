@@ -1,3 +1,38 @@
+#Introduction
+
+>Transformer is a New Modern Responsive React template. This is built with ReactJS. It is offering demos for Creative Agency, IT Agency, SEO Marketing Agency, Videography Agency, Business Agency, IT Startups, IT Agency, and IT Solutions Company, etc. It looks engaging and attractive on all types of screens and devices including Windows, Mac, iOS, Android, etc
+
+#features & Pages:
+
+✔Home<br> 
+✔About TransformerAI<br> 
+✔Possiblity<br> 
+✔Short case Study<br> 
+✔Blog<br>
+✔Footer<br> 
+
+
+#Main features:
+
+✔React,Html ,Css<br> 
+✔Simple Design<br> 
+✔Responsive Design<br> 
+✔User Friendly Code<br> 
+✔Clean Markup<br> 
+✔Cross Browser Support<br>  
+✔React icon<br> 
+
+
+#Steps Before Template Development
+
+1.Collect/Create PSD<br> 
+2.Choose framework<br> 
+3.Start Coding<br> 
+4.Setup basic SEO code<br> 
+5.Continue coding/pixel perfect design<br> 
+6.Finish<br> 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,38 +74,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-#Intraduction
-
->Transformer is a New Modern Responsive React template. This is built with ReactJS. It is offering demos for Creative Agency, IT Agency, SEO Marketing Agency, Videography Agency, Business Agency, IT Startups, IT Agency, and IT Solutions Company, etc. It looks engaging and attractive on all types of screens and devices including Windows, Mac, iOS, Android, etc
-
-#features & Pages:
-
-✔Home<br> 
-✔About TransformerAI<br> 
-✔Possiblity<br> 
-✔Short case Study<br> 
-✔Blog<br>
-✔Footer<br> 
-
-
-#Main features:
-
-✔React,Html ,Css<br> 
-✔Simple Design<br> 
-✔Responsive Design<br> 
-✔User Friendly Code<br> 
-✔Clean Markup<br> 
-✔Cross Browser Support<br>  
-✔React icon<br> 
-
-
-#Steps Before Template Development
-
-1.Collect/Create PSD<br> 
-2.Choose framework<br> 
-3.Start Coding<br> 
-4.Setup basic SEO code<br> 
-5.Continue coding/pixel perfect design<br> 
-6.Finish<br> 
 
 >Note:Figma credit-arshakir.Collect This psd design from online for personal practice.
