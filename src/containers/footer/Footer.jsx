@@ -15,9 +15,9 @@ const Footer = () => {
          <div className="transformer__footer-links">
             <div className="transformer__footer-links_logo">
                <figure>
-                  <img src={transformerLogo} alt="Footer logo"/>
+                  <img src={transformerLogo} alt="Footer logo" />
                   <address>
-                     <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
+                     <p>Example, All Rights Reserved</p>
                   </address>
                </figure>
             </div>
@@ -43,14 +43,14 @@ const Footer = () => {
 
             <div className="transformer__footer-links_div">
                <h4>Get in touch</h4>
-               <p>Crechterwoord K12 182 DK Alknjkcb</p>
-               <p><tel>085-132567</tel></p>
-               <p><a href="email">info@payme.net</a></p>
+               <p>Dublin,Ireland</p>
+               <p>+0085-132567</p>
+               <p><a href="email">example@gmzil.com</a></p>
             </div>
          </div>
          <div className="transformer__footer-copyright">
-               <p>© 2021 TRANSFORMER. All rights reserved.</p>
-            </div>
+            <p>© 2021 TRANSFORMER. All rights reserved.</p>
+         </div>
       </div>
    )
 }
